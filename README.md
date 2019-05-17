@@ -2,7 +2,7 @@
 Experimenting with Asset Bundle in Unity
 
 # How It Works
-Provide the link of you AssetBundle.
+Provide the link of your AssetBundle in inspector field "pathURL" of LoadAssetBundle script.
 Used SpawnObj method on the Button to spawn the respective gameobject.
 
 # Note
